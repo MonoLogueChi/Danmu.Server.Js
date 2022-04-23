@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "denodb": "https://deno.land/x/denodb@v1.0.40/mod.ts",
+    "drash": "https://deno.land/x/drash@v2.5.4/mod.ts",
+    "dejs": "https://deno.land/x/dejs@0.10.2/mod.ts",
+    "axiod": "https://deno.land/x/axiod@0.26.1/mod.ts"
+  }
+}
